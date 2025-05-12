@@ -1,3 +1,2 @@
 #This is a common repository for GenAI related POC's to be experimented by the group
-def say_hello(name): 
-print("Hello, {name}! Welcome to GitHub + Visual Studio.") 
+print("Hello, Welcome to GitHub + Visual Studio.") 
