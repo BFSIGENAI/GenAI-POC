@@ -1,1 +1,6 @@
-This is a common repository for GenAI related POC's to be experimented by the group
+#This is a common repository for GenAI related POC's to be experimented by the group
+def say_hello(name): 
+print(f"Hello, {name}! Welcome to GitHub + Visual Studio.") 
+if __name__ == "__main__": 
+user_name = input("Enter your name: ") 
+say_hello(user_name) 
